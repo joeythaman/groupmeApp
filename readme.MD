@@ -1,0 +1,1 @@
+This is my personal project where I am learning how to use APIs by analyzing the groupme API and my groupme chats. Enjoy!
